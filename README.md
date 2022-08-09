@@ -6,7 +6,7 @@ You can find all related files as well as a link for a public dashboard for viz.
 > 2. Tableau.<br>
 
 - Dashboard link:<br>
-https://public.tableau.com/app/profile/majed.al.ghamdi/viz/COVID19-GulfCountries-20202022/Dashboard?publish=yes<br>
+https://public.tableau.com/app/profile/majed.al.ghamdi/viz/COVID19-GulfCountries-20202022/Dashboard1?publish=yes<br>
 
 - Dataset link:<br>
 https://ourworldindata.org/covid-deaths
